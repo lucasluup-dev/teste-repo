@@ -1,5 +1,5 @@
 # Como usar o repositório:
 
-- Primeira versão do arquivo READM.md do projeto.
+- Primeira versão do arquivo README.md do projeto.
 
 ### Dev: name
